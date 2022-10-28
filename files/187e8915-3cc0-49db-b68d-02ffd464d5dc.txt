@@ -1,0 +1,87 @@
+{
+  "persons" : [ {
+    "name" : "Alex Yeoh",
+    "phone" : "87438807",
+    "email" : "alexyeoh@example.com",
+    "nextOfKin" : "Kwee Yeoh, Husband, 91912626",
+    "patientType" : "INPATIENT",
+    "hospitalWing" : "South",
+    "floorNumber" : "10",
+    "wardNumber" : "D312",
+    "medications" : [ "iv drip", "paracetamol" ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : ""
+  }, {
+    "name" : "Bernice Yu",
+    "phone" : "99272758",
+    "email" : "berniceyu@example.com",
+    "nextOfKin" : "Joe Yu, Husband, 82869128",
+    "patientType" : "OUTPATIENT",
+    "hospitalWing" : null,
+    "floorNumber" : null,
+    "wardNumber" : null,
+    "medications" : [ ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : "29-10-2022"
+  }, {
+    "name" : "Charlotte Oliveiro",
+    "phone" : "93210283",
+    "email" : "charlotte@example.com",
+    "nextOfKin" : "Kenneth Oliverio, Son, 81249567",
+    "patientType" : "INPATIENT",
+    "hospitalWing" : "East",
+    "floorNumber" : "1",
+    "wardNumber" : "T349",
+    "medications" : [ ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : "28-10-2023"
+  }, {
+    "name" : "David Li",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "nextOfKin" : "Candince Yeo, Wife, 87598274",
+    "patientType" : "OUTPATIENT",
+    "hospitalWing" : null,
+    "floorNumber" : null,
+    "wardNumber" : null,
+    "medications" : [ "ibuprofen" ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : "02-02-2023"
+  }, {
+    "name" : "Irfan Ibrahim",
+    "phone" : "92492021",
+    "email" : "irfan@example.com",
+    "nextOfKin" : "Mary Balakrishnan, Cousin, 87259826",
+    "patientType" : "OUTPATIENT",
+    "hospitalWing" : null,
+    "floorNumber" : null,
+    "wardNumber" : null,
+    "medications" : [ "canabeez", "anarax" ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : "17-11-2022"
+  }, {
+    "name" : "Roy Balakrishnan",
+    "phone" : "92624417",
+    "email" : "royb@example.com",
+    "nextOfKin" : "Mary Balakrishnan, Wife, 87259826",
+    "patientType" : "INPATIENT",
+    "hospitalWing" : "South",
+    "floorNumber" : "5",
+    "wardNumber" : "A001",
+    "medications" : [ ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : "28-10-2042"
+  }, {
+    "name" : "Amy Toh",
+    "phone" : "98765432",
+    "email" : "johnd@example.com",
+    "nextOfKin" : "Jane Doe, Wife, 82858285",
+    "patientType" : "INPATIENT",
+    "hospitalWing" : "South",
+    "floorNumber" : "3",
+    "wardNumber" : "D690",
+    "medications" : [ "panadol", "ibuprofen" ],
+    "pastAppointments" : [ ],
+    "upcomingAppointment" : null
+  } ]
+}
